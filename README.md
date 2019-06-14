@@ -2,6 +2,8 @@
 
 Material das aulas dadas por mim nos dias 16/05/19 e 23/05/19 durante a aula de Mineração de Dados
 
+#### Lembrem-se que o GitHub pode renderizar Jupyter Notebooks. Não é necessário baixar esses arquivos, ao clicar em qualquer arquivo ".ipynb", você já poderá visualizar o seu conteúdo pelo próprio GitHub.
+
 ## Links úteis (Alguns de Machine Learning, que não falamos sobre)
 
 [Referência Colormaps Matplotlib](https://matplotlib.org/examples/color/colormaps_reference.html)
